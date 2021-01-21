@@ -1,7 +1,7 @@
 {
-	"BuildId": "3944462",
+	"BuildId": "10570792",
 	"Modules": 
 	{
-		"GamepadUMGPlugin": "UE4Editor-GamepadUMGPlugin.dll"
+		"GamepadUMGPlugin": "UE4Editor-GamepadUMGPlugin-8342.dll"
 	}
 }
