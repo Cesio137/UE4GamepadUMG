@@ -3,10 +3,10 @@
 	
 	Plugin created by Rama
 */
+#include "GamepadUMGPlugin/Public/VirtualCursorFunctionLibrary.h"
 #include "GamepadUMGPluginPrivatePCH.h"
 #include "GamepadCursorSettings.h"
 #include "GameAnalogCursor.h"
-#include "VirtualCursorFunctionLibrary.h"
 
 void UVirtualCursorFunctionLibrary::EnableVirtualCursor(class APlayerController* PC)
 {
